@@ -1,7 +1,16 @@
 
+
 body    
 {background-color: sienna;
 }
 h1  {
 color: black;
 }
+
+p
+{color: maroon;
+}
+
+img {
+    border-radius: 90%;
+  }
