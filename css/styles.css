@@ -1,16 +1,34 @@
 
 
 body    
-{background-color: sienna;
+{background-color: #eaf6f6;
 }
 h1  {
-color: black;
+color: #66bfbf;
 }
 
 p
-{color: maroon;
+{color: black;
 }
 
 img {
-    border-radius: 90%;
+    border: 5px solid #555;
   }
+
+h2 {
+      color:midnightblue
+}
+  
+    
+
+
+  hr {
+    border-style: none;
+    width: 15%;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 7px;
+  }
+h3  {
+  color: #072227;
+}
